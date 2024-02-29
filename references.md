@@ -1,3 +1,4 @@
-# References
+# conflict
 
-* octocat 1 😈
+Conflict Emojicon
+
