@@ -1,0 +1,3 @@
+# conflict
+
+Conflict Emojicon
